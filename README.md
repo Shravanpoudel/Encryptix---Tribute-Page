@@ -1,1 +1,1 @@
-# Encryptix---Tribute-Page
+#Tribute-Page
